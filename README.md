@@ -1,15 +1,20 @@
 # Reto Master de la Semana 1
-En el presente repositorio se presentara información y conceptos referentes al reto Master de la Semana 1 del curso de Inovacción - Inteligencia Artificial Grupo III.
+En el presente `repositorio` se presentara información y conceptos referentes al reto **Master de la Semana 1 del curso de Inovacción - Inteligencia Artificial Grupo III.
 
 ## Tabla de Contenido
 Aquí se presentarán algunos de los conceptos aprendidos hasta el momento:
 
 * IA
 * Machine Learning
+  * Aprendizaje Supervisado
+  * Aprendizaje No Supervisado
+  * Aprendizaje Semisupervisado
+  * Deep Learning
 * Big Data
 * La Nube
 * Git
 
+## Conceptos Aprendidos:
 
 ### IA
 La *Inteligancia Artificial*, aunque es un tema complejo, se puede simplificar como la habilidad de los ordenadores o máquinas para realizar tareas, que en términos generales solo son posibles gracias a la inteligencia humana.
@@ -21,7 +26,7 @@ También conocido como el *Aprendizaje Automático*, este es uno de los principa
 Aprendizaje Supervisado:
 Aquí los algoritmos de Aprendizaje Automático usan información que ha sido clasificada, ordenada o etiquetada con anterioridad por un agente externo al ordenador o la máquina, para que esta pueda indicar como se tiene que ordenar la nueva información.
 
-Aprendizaje no supervisado:
+Aprendizaje No Supervisado:
 Aquí los algoritmos de Aprendizaje Automático tienden a buscar su propia forma de acomodar la nueva información sin la ayuda de un agente externo, es decir, por su propia cuenta.
 
 Aprendizaje Semisupervisado:
@@ -41,3 +46,10 @@ El Big Data se refiere a una enorme cantidad de información, que posee las cara
 
 
 ## Referencias
+1.	Rouhiainen, L. (2018). Inteligencia artificial. Madrid: Alienta Editorial.
+2.	Salas, R. (2004). Redes neuronales artificiales. Universidad de Valparaıso. Departamento de Computación, 1.
+3.	Herrera Delgado, V. (2020). Desarrollo de una red neuronal profunda para la clasificación y caracterización de prendas de vestir (Bachelor's thesis).
+4.	Heras, J. M. (2021, 22 enero). ¿Cómo aprende la Inteligencia Artificial? IArtificial.net. https://www.iartificial.net/como-aprende-la-inteligencia-artificial/
+5.	Garrell, A., & Guilera, L. (2019). La industria 4.0 en la sociedad digital. Marge books.
+6.	del Val Román, J. L. (2016, March). Industria 4.0: la transformación digital de la industria. In Valencia: Conferencia de Directores y Decanos de Ingeniería Informática, Informes CODDII.
+7.	Rincón, B. S. (2020). Aplicación de machine learning en el mantenimiento predictivo industrial con herramientas de código abierto. Recuperado de: http://hdl.handle.net/20.500.12010/10108.
