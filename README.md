@@ -1,5 +1,5 @@
 # Reto Master de la Semana 1
-En el presente `repositorio` se presentara información y conceptos referentes al reto **Master de la Semana 1 del curso de Inovacción - Inteligencia Artificial Grupo III.
+En el presente `repositorio` se presentara información y conceptos referentes al reto **Master de la Semana 1 del curso de Inovacción - Inteligencia Artificial Grupo III**.
 
 ## Tabla de Contenido
 Aquí se presentarán algunos de los conceptos aprendidos hasta el momento:
@@ -11,6 +11,9 @@ Aquí se presentarán algunos de los conceptos aprendidos hasta el momento:
   * Aprendizaje Semisupervisado
   * Deep Learning
 * Big Data
+  * IaaS
+  * PaaS
+  * SaaS 
 * La Nube
 * Git
 
@@ -40,7 +43,7 @@ El Aprendizaje Profundo es un subcampo del Aprendizaje Automático, en el se res
 El Big Data se refiere a una enorme cantidad de información, que posee las características de tener un volumen, una complejidad y velocidad de crecimiento que dificulta su análisis e interpretación. Esto le sirve a las empresas para utilizar esta información como base para su toma de decisiones.
 
 ### La Nube
-
+La Computación en la Nube
 
 ### Git
 
