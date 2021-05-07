@@ -1,6 +1,7 @@
 # Reto Master de la Semana 1
 En el presente `repositorio` se presentara información y conceptos referentes al reto **Master de la Semana 1 del curso de Inovacción - Inteligencia Artificial Grupo III**.
-![](Images/A.png)
+
+![](Imagenes/A.png)
 
 ## Tabla de Contenido
 Aquí se presentarán algunos de los conceptos aprendidos hasta el momento:
@@ -21,9 +22,15 @@ Aquí se presentarán algunos de los conceptos aprendidos hasta el momento:
 ## Conceptos Aprendidos:
 
 ### IA
+
+![](Imagenes/AI.jpg)
+
 La *Inteligancia Artificial*, aunque es un tema complejo, se puede simplificar como la habilidad de los ordenadores o máquinas para realizar tareas, que en términos generales solo son posibles gracias a la inteligencia humana.
 
 ### Machine Learning
+
+![](Imagenes/ML.jpg)
+
 También conocido como el *Aprendizaje Automático*, este es uno de los principales enfoques de la IA; consiste en la capacidad, de los ordenadores o máquinas, de aprender, para ello se apoyan con algoritmos de *Machine Learning* como los siguientes:
 
 
@@ -45,9 +52,15 @@ El Aprendizaje Profundo es un subcampo del Aprendizaje Automático, en el se res
 ```
 
 ### Big Data
+
+![](Imagenes/BD.jpg)
+
 El Big Data se refiere a una enorme cantidad de información, que posee las características de tener un volumen, una complejidad y velocidad de crecimiento que dificulta su análisis e interpretación. Esto le sirve a las empresas para utilizar esta información como base para su toma de decisiones.
 
 ### La Nube
+
+![](Imagenes/LN.jpg)
+
 La Computación en la Nube es el nombre que se le da a la entrega de *recursos computacionales* ofrecidos de manera *remota* y en *tiempo real*, de forma que las empresas puedan acceder a diferentes servicios tecnológicos desde cualquier parte del mundo por medio de Internet.
 Los *servidores* son las bases de la computación en la nube, estos son hardware con grandes capacidades computacionales. La nube esta conformada por un grupo de servidores que dividen entre ellos sus recursos, para cumplir con la funcion de otro servidor adjunto que lo necesite más recursos o que presente alguna falla.
 Para ello se presentan distintas formas de dar este servicio, según las necesidades que la empresa quiera cubrir se tienen los sigueintes modelos:
@@ -68,6 +81,9 @@ En este modelo los proveedores son quienes alojan y administran toda la infraest
 ```
 
 ### Git
+
+![](Imagenes/GIT.png)
+
 Git es el sistema de control de versiones más utilizado, que permite el seguimiento y la gestión del código fuente a lo largo del tiempo. Fue diseñado para la colaboración y construido para ser flexible, seguro y eficiente.
 Git es gratuito y de código abierto, diseñado para la gestión desde proyectos pequeños hasta proyectos muy grandes, caracterizandose por su rapidez y eficacia. Siendo de fácil aprendizaje y ocupa poco espacio con un rendimiento rapidísimo. Superando a las herramientas SCM como Subversion, CVS, Perforce y ClearCase con características como la ramificación local barata, cómodas áreas de preparación y múltiples flujos de trabajo.
 
