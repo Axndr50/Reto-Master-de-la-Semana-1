@@ -67,7 +67,8 @@ En este modelo los proveedores son quienes alojan y administran toda la infraest
 ```
 
 ### Git
-
+Git es el sistema de control de versiones más utilizado, que permite el seguimiento y la gestión del código fuente a lo largo del tiempo. Fue diseñado para la colaboración y construido para ser flexible, seguro y eficiente.
+Git es gratuito y de código abierto, diseñado para la gestión desde proyectos pequeños hasta proyectos muy grandes, caracterizandose por su rapidez y eficacia. Siendo de fácil aprendizaje y ocupa poco espacio con un rendimiento rapidísimo. Superando a las herramientas SCM como Subversion, CVS, Perforce y ClearCase con características como la ramificación local barata, cómodas áreas de preparación y múltiples flujos de trabajo.
 
 ## Referencias
 1.	Rouhiainen, L. (2018). Inteligencia artificial. Madrid: Alienta Editorial.
@@ -79,3 +80,5 @@ En este modelo los proveedores son quienes alojan y administran toda la infraest
 7.	Rincón, B. S. (2020). Aplicación de machine learning en el mantenimiento predictivo industrial con herramientas de código abierto. Recuperado de: http://hdl.handle.net/20.500.12010/10108.
 8.	¿Qué es Cloud Computing (computación en la nube)? IBM México. (s. f.). IBM. https://www.ibm.com/mx-es/cloud/learn
 9.	¿Qué es la computación en nube? (2020, 9 noviembre). Cisco. https://www.cisco.com/c/es_mx/solutions/cloud/what-is-cloud-computing.html
+10.	Build software better, together. (s. f.). GitHub. https://github.com/topics/git
+11.	Git. (s. f.). Git--Local-Branching-on-the-Cheap. https://git-scm.com/
