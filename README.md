@@ -1,5 +1,6 @@
 # Reto Master de la Semana 1
 En el presente `repositorio` se presentara información y conceptos referentes al reto **Master de la Semana 1 del curso de Inovacción - Inteligencia Artificial Grupo III**.
+![](A.png)
 
 ## Tabla de Contenido
 Aquí se presentarán algunos de los conceptos aprendidos hasta el momento:
